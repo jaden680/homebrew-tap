@@ -1,9 +1,9 @@
 class Rtc < Formula
     desc "RT Ticket Check CLI" 
     homepage "https://github.com/jaden680/rt_check" 
-    url "https://github.com/jaden680/rt_check/archive/refs/tags/0.0.2.tar.gz"
-    sha256 "dd8ca60fcb7eaf2f9e005119fadc51239d8a522e3a36339caa6cf5f6b5749704"
-    version "0.0.2"
+    url "https://github.com/jaden680/rt_check/archive/refs/tags/0.0.3.tar.gz"
+    sha256 "0b3c25701fcc282b829218627986020db7bebc28e8af02c4bd2ddee57c6be9f2"
+    version "0.0.3"
     depends_on "poetry" 
     
     def install
